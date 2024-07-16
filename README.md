@@ -9,7 +9,7 @@ This text editor was mostly to figure out how and why assets, dist files, and ma
 ## Installation
 
 If the user is using this project as the files itself, they will have to start by typing 'npm run install' then 'npm run start:dev'. Otherwise, the project can be accessed via the following link:
-(render link)
+[render link](https://text-editor-uver.onrender.com/)
 
 ## Usage
 
