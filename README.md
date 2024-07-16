@@ -6,18 +6,6 @@
 
 This text editor was mostly to figure out how and why assets, dist files, and manifesting works. It's one thing to learn about them, but replicating it in accordance to the project variables in another thing. This was also an easy intro to making our own progressive web applications.
 
-## Table of Contents 
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Contribute](#how-to-contribute)
-- [Tests](#tests)
-- [Questions](#questions)
-
 ## Installation
 
 If the user is using this project as the files itself, they will have to start by typing 'npm run install' then 'npm run start:dev'. Otherwise, the project can be accessed via the following link:
@@ -26,12 +14,11 @@ If the user is using this project as the files itself, they will have to start b
 ## Usage
 
 Everything starts and ends here. The only feature of this text editor is simply adding text. 
+![JATE as the website on render](./images/JATEweb.png)
 
-To add a screenshot, create an 'assets/images' folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+If you so choose to install the application, it will display the text put down in the website too. 
+![JATE as the progressive web application](./images/JATEpwa.png)
 
-    '''md
-    ![alt text](assets/images/screenshot.png)
-    '''
 
 ## License
 
